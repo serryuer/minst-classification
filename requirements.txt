@@ -12,7 +12,7 @@ mkl-fft==1.0.10
 mkl-random==1.0.2
 numpy==1.15.4
 olefile==0.44
-Pillow==4.2.1
+Pillow==8.3.2
 pycparser==2.18
 pylint==2.3.1
 pyzmq==18.0.1
